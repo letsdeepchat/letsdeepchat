@@ -2,7 +2,7 @@
 
 👀 I’m interested in... crafting awesome web apps with Python, diving into APIs like a code ninja, and making databases dance to my queries! FastAPI and PostgreSQL are my current jam, but I’m always eyeing new tech to conquer. 🐍💾
 
-🌱 I’m currently learning... the art of building slick REST APIs, mastering Git like a version-control wizard, and wrangling Docker containers with style. Oh, and I’m decoding the mysteries of JWT auth—tokens, you’re no match for me! 🔐
+🌱 I’m currently learning... the art of building slick FastAPIs, mastering Git like a version-control wizard, and wrangling Docker containers with style. Oh, and I’m decoding the mysteries of JWT auth—tokens, you’re no match for me! 🔐
 
 💞️ I’m looking to collaborate on... open-source projects that blend Python, APIs, and a sprinkle of creativity! Got a cool FastAPI or data-driven app idea? Let’s team up and make it shine. ✨
 
