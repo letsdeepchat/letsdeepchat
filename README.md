@@ -35,7 +35,7 @@ I’m interested in collaborating on:
 You can connect via:
 
 - GitHub: [@deepakchaudharigit](https://github.com/deepakchaudharigit)  
-- Email: Reach out via issues or project discussions on GitHub  
+- Email: deepak.chaudhari@questt.com - Reach out via issues or project discussions on GitHub  
 
 ---
 
