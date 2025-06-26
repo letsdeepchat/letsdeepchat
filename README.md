@@ -2,9 +2,7 @@
 
 Hi, I’m **@deepakchaudharigit**, a backend developer passionate about building robust and scalable web applications using **Python**, **FastAPI**, and **PostgreSQL**. I enjoy crafting efficient APIs, architecting clean backend services, and working with databases to deliver performant, data-driven solutions.
 
----
-
-## 🔧 What I’m Working On
+## What I’m Working On
 
 I’m currently focused on:
 
@@ -14,9 +12,7 @@ I’m currently focused on:
 - Containerizing applications using **Docker**  
 - Managing asynchronous tasks and optimizing database interactions  
 
----
-
-## 🚀 What I’m Learning
+## What I’m Learning
 
 I’m diving deeper into:
 
@@ -25,9 +21,7 @@ I’m diving deeper into:
 - CI/CD pipelines and deployment best practices  
 - Clean architecture principles for backend systems  
 
----
-
-## 🤝 Open to Collaborate
+## Open to Collaborate
 
 I’m interested in collaborating on:
 
@@ -36,9 +30,7 @@ I’m interested in collaborating on:
 - Systems involving financial workflows, APIs, and automation  
 - Open source contributions in the Python ecosystem  
 
----
-
-## 📬 How to Reach Me
+## How to Reach Me
 
 You can connect via:
 
@@ -47,6 +39,6 @@ You can connect via:
 
 ---
 
-## 🧠 Fun Fact
+## Fun Fact
 
 While debugging, I often explain code out loud. A method that’s helped me find subtle bugs more than once. I strongly believe clean, well-tested code is the best documentation a developer can write.
