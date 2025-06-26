@@ -39,6 +39,6 @@ You can connect via:
 
 ---
 
-## Fun Fact
+## My Favourite Quote
 
-While debugging, I often explain code out loud. A method that’s helped me find subtle bugs more than once. I strongly believe clean, well-tested code is the best documentation a developer can write.
+"The real skill is: knowing what to ask, how to fix, and how to apply."
