@@ -49,4 +49,4 @@ You can connect via:
 
 ## 🧠 Fun Fact
 
-While debugging, I often explain code out loud — a method that’s helped me find subtle bugs more than once. I strongly believe clean, well-tested code is the best documentation a developer can write.
+While debugging, I often explain code out loud. A method that’s helped me find subtle bugs more than once. I strongly believe clean, well-tested code is the best documentation a developer can write.
