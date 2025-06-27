@@ -43,5 +43,6 @@ You can connect via:
 
 ## My Favourite Quote
 
-"The real skill is: knowing what to ask, how to fix, and how to apply."
+> **"The real skill is: knowing what to ask, how to fix, and how to apply."**
+
 ---
