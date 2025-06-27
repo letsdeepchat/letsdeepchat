@@ -12,14 +12,18 @@ I’m currently focused on:
 - Containerizing applications using **Docker**  
 - Managing asynchronous tasks and optimizing database interactions  
 
-## What I’m Learning
+## What I Aim to Achieve
 
-I’m diving deeper into:
-
-- Advanced FastAPI and dependency injection patterns  
-- Git version control workflows and team collaboration  
-- CI/CD pipelines and deployment best practices  
-- Clean architecture principles for backend systems  
+| Category           | Example Task                                       |
+| ------------------ | -------------------------------------------------- |
+| **Feature Design** | Lead design of GSTR1 ingestion & validation engine |
+| **API Dev**        | Build secure, paginated invoice search API         |
+| **DB**             | Optimize invoice summary query with joins          |
+| **Auth**           | Implement OAuth2 flow with refresh tokens          |
+| **Testing**        | Set up DB mocks and coverage thresholds            |
+| **Deployment**     | Dockerize FastAPI + set up CI on merge             |
+| **Observability**  | Add structured logging and Prometheus metrics      |
+| **Team**           | Review PRs, write documentation for API usage      |
 
 ## Open to Collaborate
 
@@ -36,19 +40,6 @@ You can connect via:
 
 - GitHub: [@deepakchaudharigit](https://github.com/deepakchaudharigit)  
 - Email: deepak.chaudhari@questt.com - Reach out via issues or project discussions on GitHub  
-
-## What I Aim to Achieve
-
-| Category           | Example Task                                       |
-| ------------------ | -------------------------------------------------- |
-| **Feature Design** | Lead design of GSTR1 ingestion & validation engine |
-| **API Dev**        | Build secure, paginated invoice search API         |
-| **DB**             | Optimize invoice summary query with joins          |
-| **Auth**           | Implement OAuth2 flow with refresh tokens          |
-| **Testing**        | Set up DB mocks and coverage thresholds            |
-| **Deployment**     | Dockerize FastAPI + set up CI on merge             |
-| **Observability**  | Add structured logging and Prometheus metrics      |
-| **Team**           | Review PRs, write documentation for API usage      |
 
 ---
 
