@@ -41,8 +41,7 @@ You can connect via:
 - GitHub: [@deepakchaudharigit](https://github.com/deepakchaudharigit)  
 - Email: deepak.chaudhari@questt.com - Reach out via issues or project discussions on GitHub  
 
----
-
 ## My Favourite Quote
 
 "The real skill is: knowing what to ask, how to fix, and how to apply."
+---
