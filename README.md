@@ -30,7 +30,7 @@ I’m currently focused on:
 I’m interested in collaborating on:
 
 - FastAPI or Flask-based API systems  
-- Projects that require tight database integrations (PostgreSQL or MySQL)  
+- Projects that require tight database integrations (PostgreSQL or MySQL, MongoDB)  
 - Systems involving financial workflows, APIs, and automation  
 - Open source contributions in the Python ecosystem  
 
