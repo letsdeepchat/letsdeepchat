@@ -39,6 +39,21 @@ You can connect via:
 
 ---
 
+## My Future Goal is 
+
+| Category           | Example Task                                       |
+| ------------------ | -------------------------------------------------- |
+| **Feature Design** | Lead design of GSTR1 ingestion & validation engine |
+| **API Dev**        | Build secure, paginated invoice search API         |
+| **DB**             | Optimize invoice summary query with joins          |
+| **Auth**           | Implement OAuth2 flow with refresh tokens          |
+| **Testing**        | Set up DB mocks and coverage thresholds            |
+| **Deployment**     | Dockerize FastAPI + set up CI on merge             |
+| **Observability**  | Add structured logging and Prometheus metrics      |
+| **Team**           | Review PRs, write documentation for API usage      |
+
+---
+
 ## My Favourite Quote
 
 "The real skill is: knowing what to ask, how to fix, and how to apply."
