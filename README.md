@@ -37,8 +37,6 @@ You can connect via:
 - GitHub: [@deepakchaudharigit](https://github.com/deepakchaudharigit)  
 - Email: deepak.chaudhari@questt.com - Reach out via issues or project discussions on GitHub  
 
----
-
 ## What I Aim to Achieve
 
 | Category           | Example Task                                       |
