@@ -39,7 +39,7 @@ You can connect via:
 
 ---
 
-## My Future Goal is 
+## What I Aim to Achieve
 
 | Category           | Example Task                                       |
 | ------------------ | -------------------------------------------------- |
