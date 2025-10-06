@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I’m **@deepakchaudharigit**, a backend developer passionate about building robust and scalable web applications using **Python**, **FastAPI**, and **PostgreSQL**. I enjoy crafting efficient APIs, architecting clean backend services, and working with databases to deliver performant, data-driven solutions.
+Hi, I’m **@letsdeepchat**, a backend developer passionate about building robust and scalable web applications using **Python**, **NodeJS**, **FastAPI**, and **PostgreSQL**. I enjoy crafting efficient APIs, architecting clean backend services, and working with databases to deliver performant, data-driven solutions.
 
 ## What I’m Working On
 
@@ -38,8 +38,8 @@ I’m interested in collaborating on:
 
 You can connect via:
 
-- GitHub: [@deepakchaudharigit](https://github.com/deepakchaudharigit)  
-- Email: deepak.chaudhari@questt.com - Reach out via issues or project discussions on GitHub  
+- GitHub: [@deepakchaudharigit](https://github.com/letsdeepchat)  
+- Email: deepakchaudhari705@gmail.com - Reach out via issues or project discussions on GitHub  
 
 ## My Favourite Quote
 
