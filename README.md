@@ -1,16 +1,17 @@
 # About Me
 
-Hi, I’m **@letsdeepchat**, a backend developer passionate about building robust and scalable web applications using **Python**, **NodeJS**, **FastAPI**, and **PostgreSQL**. I enjoy crafting efficient APIs, architecting clean backend services, and working with databases to deliver performant, data-driven solutions.
+Hi, I'm **@letsdeepchat**, a full-stack developer with 3 years of experience building AI voice systems, telephony solutions, and scalable APIs using **Python**, **Node.js**, **FastAPI**, **Next.js**, **TypeScript**, and **PostgreSQL**. I specialize in architecting real-time systems, crafting efficient backend services, and delivering performant, data-driven solutions with a focus on security and reliability.
 
-## What I’m Working On
+## What I'm Working On
 
-I’m currently focused on:
+Currently focused on:
 
-- Developing production-ready APIs using FastAPI  
-- Implementing secure authentication flows with JWT  
-- Integrating third-party services like **Masters India GST APIs**  
-- Containerizing applications using **Docker**  
-- Managing asynchronous tasks and optimizing database interactions  
+- Building AI-driven voice bots with **Asterisk ARI** and integrated AI pipelines (STT, LLM, TTS)
+- Developing GST automation systems with **FastAPI** and **PostgreSQL**
+- Implementing real-time analytics dashboards using **Next.js**, **TypeScript**, and **WebSockets**
+- Architecting secure authentication flows with **NextAuth.js** and **JWT**
+- Containerizing applications using **Docker** with load balancing strategies
+- Optimizing database performance with strategic indexing and query optimization
 
 ## What I Aim to Achieve
 
@@ -27,19 +28,22 @@ I’m currently focused on:
 
 ## Open to Collaborate
 
-I’m interested in collaborating on:
+Interested in collaborating on:
 
-- FastAPI or Flask-based API systems  
-- Projects that require tight database integrations (PostgreSQL or MySQL, MongoDB)  
-- Systems involving financial workflows, APIs, and automation  
-- Open source contributions in the Python ecosystem  
+- AI voice systems and telephony integration projects (Asterisk, SIP)
+- FastAPI or Express-based API systems with real-time capabilities
+- Projects requiring tight database integrations (PostgreSQL, MongoDB)
+- Systems involving financial workflows, GST automation, and API integrations
+- Full-stack applications using Next.js, TypeScript, and modern web technologies
+- Open source contributions in the Python and Node.js ecosystems
 
 ## How to Reach Me
 
-You can connect via:
+Connect via:
 
-- GitHub: [@letsdeepchat](https://github.com/letsdeepchat)  
-- Email: deepakchaudhari705@gmail.com - Reach out via issues or project discussions on GitHub  
+- GitHub: [@letsdeepchat](https://github.com/letsdeepchat)
+- LinkedIn: [linkedin.com/in/letsdeepchat](https://linkedin.com/in/letsdeepchat)
+- Email: [deepakchaudhari705@gmail.com](mailto:deepakchaudhari705@gmail.com)
 
 ## My Favourite Quote
 
