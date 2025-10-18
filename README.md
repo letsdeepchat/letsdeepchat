@@ -38,7 +38,7 @@ I’m interested in collaborating on:
 
 You can connect via:
 
-- GitHub: [@deepakchaudharigit](https://github.com/letsdeepchat)  
+- GitHub: [@letsdeepchat](https://github.com/letsdeepchat)  
 - Email: deepakchaudhari705@gmail.com - Reach out via issues or project discussions on GitHub  
 
 ## My Favourite Quote
