@@ -1,12 +1,6 @@
 # About Me
 
 Hi, I'm **@letsdeepchat**, a full-stack developer with 3 years of experience building AI voice systems, telephony solutions, and scalable APIs using **Python**, **Node.js**, **FastAPI**, **Next.js**, **TypeScript**, and **PostgreSQL**. I specialize in architecting real-time systems, crafting efficient backend services, and delivering performant, data-driven solutions with a focus on security and reliability.
-<div style="display: flex; padding: 20px; justify-content: center; gap: 20px;">
-  <img alt="my stats" width="55%" src="https://github-readme-stats.vercel.app/api?username=letsdeepchat&show_icons=true&theme=radical" />
-  <img alt="Top Langs" src="https://quickchart.io/chart?c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A%5B'JavaScript'%2C'HTML'%2C'CSS'%2C'Python'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B50%2C25%2C15%2C10%5D%7D%5D%7D%7D&width=200&height=200" style="width: 230px; height: 230px;" />
-</div>
-
-
 ## What I'm Working On
 
 Currently focused on:
