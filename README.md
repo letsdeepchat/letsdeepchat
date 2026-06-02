@@ -46,4 +46,4 @@ Connect via:
 
 ## My Favourite Quote
 
-> **"The real skill is: knowing what to ask, how to fix, and how to apply."** - Modi Ji 🤪😂
+> **"The real skill is: knowing what to ask, how to fix, how and where to apply."** - Modi Ji 🤪😂
